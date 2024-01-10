@@ -1,0 +1,7 @@
+{
+  "name": "AretaEscalonia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
